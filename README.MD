@@ -1,0 +1,1 @@
+This project is about creating a list, about section and adding some images using only HTML.
